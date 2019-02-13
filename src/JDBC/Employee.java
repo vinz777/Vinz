@@ -1,5 +1,5 @@
 package JDBC;
-
+//
 public class Employee {
 	
 	int empId;
